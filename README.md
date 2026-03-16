@@ -88,8 +88,13 @@ Some of the main findings from the analysis were:
 - Makar had a much stronger goal-scoring profile
 - Makar generated more shots on goal and higher expected goals
 - **Quinn Hughes** stood out as a strong playmaker, especially in primary assists
+<img width="2253" height="999" alt="image" src="https://github.com/user-attachments/assets/f6cef207-7915-49a0-997c-6ac87d0fc2cc" />
+
 - On a per-game basis, Makar was stronger in several major offensive categories
+<img width="2076" height="1038" alt="image" src="https://github.com/user-attachments/assets/e8f17c3e-a072-4e02-bfba-1ec6b14469da" />
+
 - Makar also looked slightly more consistent at an elite offensive level
+<img width="1413" height="882" alt="image" src="https://github.com/user-attachments/assets/74c8f61d-9aac-4cfe-8222-6d5767d34399" />
 
 ---
 

@@ -1,6 +1,7 @@
 # NHL Player Trade Target Analysis
 
 This project is a Python-based exploratory data analysis (EDA) notebook that compares **Cale Makar** and **Quinn Hughes** as offensive trade targets.
+<br>
 <img width="339" height="207" alt="image" src="https://github.com/user-attachments/assets/59c63c27-bea9-4d41-b118-d1e9fe0d8313" />
 
 
@@ -59,7 +60,7 @@ To make the comparison fair and focused, I:
 - Filtered the dataset to include only **Cale Makar** and **Quinn Hughes**
 - Kept only the **"all" situation**
 - Selected the offensive columns most relevant to the assignment
-- <img width="1413" height="1197" alt="image" src="https://github.com/user-attachments/assets/25e5d533-fe3f-4d13-891b-ddef1d54f7fa" />
+<img width="1413" height="1197" alt="image" src="https://github.com/user-attachments/assets/25e5d533-fe3f-4d13-891b-ddef1d54f7fa" />
 
 - Removed Quinn Hughes’s small 2018 sample from the main comparison
 - Created per-game metrics such as:
